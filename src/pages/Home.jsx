@@ -14,8 +14,8 @@ const Home = () => {
     <div style={{paddingTop:'100px'}} className='container'>
     <div className='row align-items-center'>
       <div className='col-lg-5'>
-        <h3> Welcome to <span className='text-warning'>Media Player</span></h3>
-        <p style={{textAlign:'justify'}}>Media Player App will allow user to add or remove their uploaded videos from youTube and also allow them to arrange it in different categories by drag and drop. User can also have the provision to manage their watch history as well. What are you waiting for, let starts exploring oursite!!!
+        <h3> Welcome to <span className='text-warning'>Christ School</span></h3>
+        <p style={{textAlign:'justify'}}>Christ Marksheet App will allow user  and also allow them to arrange it in different categories by drag and drop. User can also have the provision to update each student progression. What are you waiting for, let starts exploring oursite!!!
         </p>
     
       </div>

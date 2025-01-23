@@ -8,7 +8,7 @@ function Footer() {
         <div className='d-flex justify-content-between'>
         {/* intro */}
         <div style={{width:'400px'}}>
-            <h5><i className="fa-solid fa-music"></i>Media Player</h5>
+            <h5><i className="fa-solid fa-school me-3"></i>MarkSheet</h5>
             <p>Designed and built with all the love in the world by the Bootstrap team with the help of our contributors.</p>
             <p>Code licensed MIT, docs CC BY 3.0.</p>
             <p>Currently v5.3.3.</p>
